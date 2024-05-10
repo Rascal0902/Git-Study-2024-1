@@ -1,0 +1,10 @@
+$ git log
+commit dd69527ac296f0c36b793e075ee8ab4f739fe2b1 (HEAD -> master)
+Author: Rascal0902 <geonho050902@gmail.com>
+Date:   Fri May 10 15:57:52 2024 +0900
+
+    23 박건호 assignment 2-2
+
+commit a16b5ae443b2b7b6b9e71417fd6754f46284a674
+Author: Rascal0902 <geonho050902@gmail.com>
+Date:   Fri May 10 15:55:28 2024 +0900
