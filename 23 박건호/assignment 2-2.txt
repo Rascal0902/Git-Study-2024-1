@@ -1,0 +1,8 @@
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   "23 \353\260\225\352\261\264\355\230\270/assignment 2-2.txt"
+
+
+
